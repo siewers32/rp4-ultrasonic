@@ -32,7 +32,8 @@ if __name__ == "__main__":
                 midi_value = distance_to_midi_value(distance)
                 if midi_value is not None:
                     # Stuur een Control Change op kanaal 0 (MIDI-kanaal 1)
-                    midi_sender.send_control_change(0, 7, midi_value)
+                    # midi_sender.send_control_change(0, 7, midi_value)
+                    midi_sender.send_note_on(0, midi_value, 100)  # Speel een noot (C3) met de MIDI-waarde
             else:
                 print("Meting mislukt of buiten bereik.")
             time.sleep(0.5) # Wacht 0.5 seconden tussen metingen

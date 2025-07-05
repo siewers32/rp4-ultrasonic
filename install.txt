@@ -1,0 +1,176 @@
+    1  sudo reboot now
+    2  sudo raspi-config
+    3  sudo reboot now
+    4  ls
+    5  sudo shutdown now
+    6  python --version
+    7  python -m venv venv
+    8  python main.py
+    9  source venv/bin/activate
+   10  python main.py
+   11  python -m pip install gpiozero
+   12  python main.py
+   13  pwd
+   14  mkdir git
+   15  cd git
+   16  mkdir hello
+   17  sudo shutdown now
+   18  sudo reboot now
+   19  cd /home/janjaap/git
+   20  git clone git@github.com:adafruit/Adafruit_CircuitPython_MCP3xxx.git
+   21  apt get git
+   22  apt install  git
+   23  sudo apt install  git
+   24  cd /home/janjaap/git/
+   25  git clone git@github.com:adafruit/Adafruit_CircuitPython_MCP3xxx.git
+   26  ssh-keygen
+   27  cd ~/.ssh
+   28  ls
+   29  cd ~
+   30  ls
+   31  ssh-keygen
+   32  cd ~/.ssh
+   33  ls
+   34  cat id_github.pub
+   35  cd ~/git/
+   36  git clone git@github.com:adafruit/Adafruit_CircuitPython_MCP3xxx.git
+   37  ssh-add /.ssh/id_github
+   38  eval `ssh-agent -s`
+   39  ssh-add /.ssh/id_github
+   40  ssh-add ~/.ssh/id_github
+   41  git clone git@github.com:adafruit/Adafruit_CircuitPython_MCP3xxx.git
+   42  sudo apt-get intstall libhdf5-dev
+   43  sudo apt-get install libhdf5-dev
+   44  python --version
+   45  source venv/bin/activate
+   46  python --version
+   47  exit
+   48  python -m venv venv
+   49  python -m pip install -r requirements.txt
+   50  source venv/bin/activate
+   51  python -m pip install -r requirements.txt
+   52  exit
+   53  python -m venv venv
+   54  source venv/bin/activate
+   55  python -m pip install -r requirements.txt
+   56  cd examples/
+   57  ls
+   58  exit
+   59  sudo apt-get install python3-dev 
+   60  apt-get update
+   61  sudo apt-get update
+   62  sudo apt-get install python3-dev 
+   63  sudo shutdown now
+   64  cd examples
+   65  pythonn mcp3xxx_mcp3002_single_ended_simpletest.py 
+   66  python mcp3xxx_mcp3002_single_ended_simpletest.py 
+   67  source venv/bin/activate
+   68  cd ..
+   69  source venv/bin/activate
+   70  cd examples
+   71  python mcp3xxx_mcp3002_single_ended_simpletest.py 
+   72  python -m pip install RPi.GPIO
+   73  python mcp3xxx_mcp3002_single_ended_simpletest.py 
+   74  python -m pip install adafruit-circuitpython-mcp3xxx
+   75  python mcp3xxx_mcp3002_single_ended_simpletest.py 
+   76  sudo apt-get install python-rpi.gpio
+   77  sudo shutdown
+   78  sudo shutdown -c
+   79  sudo shutdown now
+   80  python test.py
+   81  cd git
+   82  ls
+   83  cd hello
+   84  ls
+   85  sudo shutdown now 
+   86  source venv/bin/activate
+   87  python test.py
+   88  python -m pip install bluetooth
+   89  python -m pip install pybluez2
+   90  sudo rasp-config
+   91  sudo raspi-config
+   92  ifconfig
+   93  ls
+   94  raspi-conf
+   95  ls
+   96  cd git
+   97  ls
+   98  sudo apt install python3-bluez
+   99  apt update
+  100  sudo apt update
+  101  sudo apt upgrade
+  102  exit
+  103  source venv/bin/activate
+  104  python -m pip install pybluez2
+  105  python -m pip install pybluez
+  106  python -m pip install pybluez2
+  107  python -m pip install pyblue
+  108  python -m pip install pybluez
+  109  python -m pip install pybluez2
+  110  python -m pip install pybluez
+  111  sudo apt-get install libbluetooth-dev
+  112  sudo apt install libbluetooth-dev
+  113  sudo apt-get install python-dev
+  114  sudo apt-get install python-dev-is-python3
+  115  sudo apt-get install -y libusb-dev libdbus-1-dev libglib2.0-dev libudev-dev libicaldev libreadline-dev
+  116  sudo apt-get install bluetooth bluez libbluetooth-dev
+  117  sudo apt-get install python-pip python-dev ipython
+  118  sudo apt-get install bluetooth libbluetooth-dev
+  119  sudo apt-get install libbluetooth-dev bluez bluez-hcidump libboost-python-dev libboost-thread-dev libglib2.0-dev
+  120  sudo apt-get install pi-bluetooth
+  121  sudo apt-get install bluetooth bluez
+  122  sudo apt-get install bluez python-bluez
+  123  sudo apt-get update
+  124  sudo apt-get install bluetooth bluez libbluetooth-dev
+  125  sudo python3 -m pip install pybluez
+  126  sudo apt-get update
+  127  sudo apt-get upgrade
+  128  sudo apt-get install bluetooth bluez-utils blueman
+  129  sudo shutdown now
+  130  source venv/bin/activate
+  131  python -m pip install pybluez2
+  132  python -m pip install pybluez
+  133  python -m pip install pybluez2
+  134  python -m pip install git+https://github.com/airgproducts/pybluez2.git@0.46
+  135  python -m pip install pybluez2
+  136  python -m pip install git+https://github.com/pybluez/pybluez.git#egg=pybluez
+  137  ls
+  138  python test.py
+  139  sudo apt-get install libasound2-dev
+  140  sudo update
+  141  sudo apt update
+  142  sudo apt install rtpmidid
+  143  cd ~
+  144  sudo dpkg -i rtpmidid_23.12_arm64.deb
+  145  sudo apt -f install
+  146  sudo nano /etc/rtpmidid/default.ini
+  147  sudo systemctl daemon-reload
+  148  sudo systemctl enable rtpmidi-call.service
+  149  sudo nano /etc/rtpmidid/default.ini
+  150  sudo cp /etc/rtpmidid/default.ini /etc/rtmidid/rtpmidi-call.ini
+  151  sudo cp /etc/rtpmidid/default.ini /etc/rtpmidid/rtpmidi-call.ini
+  152  sudo systemctl enable rtpmidi-call.service
+  153  sudo systemctl enable rtpmidi-call.ini
+  154  sudo systemctl start rtpmidid
+  155  sudo systemctl enable rtpmidid
+  156  sudo systemctl status rtpmidi
+  157  sudo systemctl status rtpmidid
+  158  sudo systemctl stop rtpmidid
+  159  sudo nano /etc/rtpmidid/default.ini
+  160  sudo systemctl start rtpmidid
+  161  sudo systemctl enable rtpmidid
+  162  sudo systemctl status rtpmidid
+  163  sudo systemctl status avahi-daemon
+  164  journalctl -u rtpmidid.service -f
+  165  sudo nano /etc/rtpmidid/default.ini
+  166  sudo systemctl stop rtpmidid
+  167  sudo systemctl start rtpmidid
+  168  sudo systemctl enable rtpmidid
+  169  sudo systemctl status rtpmidid
+  170  ssh-keygen -t rsa -b 4096 -C
+  171  ssh-keygen -t rsa -b 4096 -C "janjaap@siewers.org"
+  172  cd .ssh
+  173  ls
+  174  cat id_github.pub
+  175  history
+  176  history > ~/install.txt
